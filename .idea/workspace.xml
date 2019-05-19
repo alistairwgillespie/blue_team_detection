@@ -1,27 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81efc7c4-7cd8-47f8-87b6-485f5b8d8483" name="Default Changelist" comment="UPDATE TO MARKDOWN AND NOTEBOOK HYGIENE" />
+    <list default="true" id="81efc7c4-7cd8-47f8-87b6-485f5b8d8483" name="Default Changelist" comment="UPDATE TO MARKDOWN AND NOTEBOOK HYGIENE">
+      <change afterPath="$PROJECT_DIR$/notebooks/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="blue_team_detection" />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/notebooks/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/blue_team_detection.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
+        <option value="$PROJECT_DIR$/notebooks/.gitignore" />
       </list>
     </option>
   </component>
@@ -45,11 +57,6 @@
               <item name="blue_team_detection" type="b2602c69:ProjectViewProjectNode" />
               <item name="blue_team_detection" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="blue_team_detection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blue_team_detection" type="462c0819:PsiDirectoryNode" />
-              <item name="notebooks" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -57,6 +64,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/notebooks" />
   </component>
   <component name="RecentsManager">
@@ -106,10 +114,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="111" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917898" visible="true" weight="0.2533137" />
+      <window_info id="Structure" order="1" sideWeight="0.500821" side_tool="true" visible="true" weight="0.2533137" />
+      <window_info id="Favorites" order="2" sideWeight="0.500821" side_tool="true" weight="0.2533137" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -117,9 +126,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4992636" visible="true" weight="0.32929516" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4992636" weight="0.32929516" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50073636" side_tool="true" visible="true" weight="0.32929516" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4992636" weight="0.32929516" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49779087" visible="true" weight="0.32929516" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5022091" side_tool="true" visible="true" weight="0.32929516" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -159,6 +168,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/notebooks/malicious_url_detector.ipynb">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
